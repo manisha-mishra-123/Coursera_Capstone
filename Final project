@@ -1,0 +1,23 @@
+Aim of Project
+The aim of this project is to determine which would be the best area to set up a new restaurant in the city of Gurgaon, India.
+
+Introduction
+Gurgaon, officially Gurugram, is a city located in the northern Indian state of Haryana. It is situated near the Delhi-Haryana border, about 30 kilometres (19 mi) southwest of the national capital New Delhi and 268 km (167 mi) south of Chandigarh, the state capital. It is one of the major satellite cities of Delhi and is part of the National Capital Region of India. As of 2011, Gurgaon had a population of 876,900. 
+Gurgaon has become a leading financial and banking centre in India after Mumbai and Chennai. The city's economic growth story started when the leading Indian automobile manufacturer Maruti Suzuki India Limited established a manufacturing plant in Gurgaon in the 1970s. Today, Gurgaon has local offices for more than 250 Fortune 500 companies. Gurgaon is categorised as very high on the Human Development Index, with an HDI of 0.889 (2017), which is also the highest in India.
+
+The city has a total area of 738.8 square kilometres (285.3 sq mi) 
+
+Topography
+The average land elevation is 217 metres (712 ft) above sea level. 
+
+Neighbourhoods
+
+Gurgaon is divided into 36 wards, with each ward further divided into blocks. The housing type in the city consists largely of attached housing, though many attached multi-dwelling units, including apartments, condominiums and high rise residential towers are getting popular.
+
+Business Problem
+There are many malls, offices and restaurants located in Gurgaon. But the range of the restaurants in terms of finance is either too high or too low. Most of the restaurants are located around areas for shopping and partying. The areas around the offices mostly lack in good restaurant service. So, through this project I will find a suitable place which requires a good, formal restaurant in the mid-range.
+
+
+
+Data
+Data for this project is from a site called https://www.kaggle.com/karansud/neighborhoods-of-gurgaon-with-latlong. It has the neighbourhoods of Gurgaon and latitude and longitude information of the neighbourhoods. The data will be loaded in the form of a csv file downloaded from this site. Also the restaurant information and office locations will come from Foursquare location data. 
